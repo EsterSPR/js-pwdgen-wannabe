@@ -1,0 +1,6 @@
+PROBLEMA: Generare una password che sia formata da nome, cognome, colore preferito e il numero 21
+
+1 - Prompt per inserire nome
+2 - Prompt per inserire cognome
+3 - Prompt per inserire colore preferito
+4 - Concatenare tutti i valori più il numero 21 alla fine
